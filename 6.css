@@ -1,0 +1,53 @@
+
+
+.ak{
+    display: inline-block;
+    width: 20vh;
+    height: 20vh;
+    
+}
+.first{
+   
+    background-color: wheat;
+    position:absolute;
+    top:90px;
+
+  
+    
+    
+    
+}
+.second{
+   
+    background-color:yellow;
+   
+}
+.third{
+  
+    background-color:green;
+    position:absolute;
+    top:90px;
+   
+}
+.fourth{
+   
+    background-color:skyblue;
+   
+
+}
+.fifth{
+    background-color:pink;
+    position:absolute;
+    left:50px;
+    top:50px;
+    border-radius: 50%;
+    opacity: 0.6;
+
+}
+.container{
+    position: absolute;
+    top:150px;
+    left:155px;
+    
+   
+}

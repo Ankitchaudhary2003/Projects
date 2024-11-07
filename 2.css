@@ -1,0 +1,35 @@
+.div{
+    border: 2px solid black;
+    padding:5px;
+    text-align: center;
+    margin:10px;
+    width:50vw;
+    border-color: rgb(0, 139, 139);
+    margin-left:25vw;
+    background-color:rgb(215, 228, 220);
+    border-radius: 10px;
+   
+}
+
+.div:hover h1{
+    color: blue;
+  
+ transform: scale(1.05);
+}
+.div:hover h3{
+    color: rgb(13, 255, 0);
+  
+ transform: scale(1.05);
+}
+.div:hover p{
+    color:rgb(143, 100, 237);
+    transform:scale(1.03);
+}
+.div:hover{
+   
+  
+ transform: scale(1.01);
+}
+body{
+    background-color: rgb(0, 139, 139);
+}

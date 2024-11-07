@@ -1,0 +1,33 @@
+
+*{
+    margin:0;
+}
+.flag{
+    display: flex;
+}
+.first{
+    background-color: orange;
+    height: 100vh;
+    width: 35vw;
+   
+  
+}
+.second{
+    background-color:white;
+    height: 100vh;
+    width: 30vw;
+  
+
+}
+.third{
+    background-color:green;
+    height: 100vh;
+    width: 33vw;
+   
+}
+
+    
+
+
+
+

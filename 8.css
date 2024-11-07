@@ -1,0 +1,43 @@
+.ak{
+    width: 20vh;
+    height:20vh;
+    display:inline-block;
+    
+   
+    
+   
+    
+}
+.container{
+    background-color:blueviolet;
+    display:inline-block;
+    height: 1000px;
+}
+.first{
+    background-color: blue;
+    position:relative;
+   
+
+
+}
+.second{
+    background-color: yellow;
+   
+    top:50px;
+    border-radius: 50%;
+    border:1px solid black;
+   position:fixed ;
+   position: relative;
+}
+.third{
+    background-color: brown;
+}
+.fourth{
+    background-color: cadetblue;
+    position:relative;
+    top:50px;
+    border-radius: 50%;
+    border: 1px solid black;;
+}
+.fifth{
+    background-color:chartreuse;

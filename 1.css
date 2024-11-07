@@ -1,0 +1,56 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#333;
+   
+    background-color: #f0f0f0;
+}
+
+header{
+    background-color: #4CAF50;
+    color: white;
+}
+h1{
+    font-size: 3em;
+    font-weight: bold;
+}
+.h2{
+    font-size: 1.5em;
+    color:#FFD700;
+}
+.int{
+    color:#127bab;
+}
+.key{
+    color:#EF10C7;
+}
+.ja{
+    color:#E41A1D;
+}
+.res{
+    color:#333CD0;
+}
+footer{
+    background-color: gray;
+    font-weight: bold;
+}
+main div{
+    background-color: antiquewhite;
+}
+table{
+    background-color: #f9f9f9;
+    width: 100%;
+}
+table th{
+    background-color: #007BFF;
+    color:white;
+}
+.one{
+    background-color: #d8caca7f;
+}
+.two{
+    background-color: rgb(225, 231, 238);
+
+}
+.three{
+    background-color: rgb(231, 225, 216);
+}
