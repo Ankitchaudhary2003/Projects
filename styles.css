@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(251, 249, 245);
+}
+.rnd{
+    display:inline-block;
+}
+.image img{
+    width: 250px;
+    height: 200px;
+    border-radius: 14px;;
+}
+.Rname{
+    font-size: 18px;
+    font-weight: bold;
+}
+.gray{
+    color: rgb(105, 99, 99);
+}
+.R{
+    background-color: green;
+    color: white;
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.card{
+    cursor: pointer;
+    display: inline-block;
+    border: 10px solid  rgb(251, 249, 245);;
+    border-radius: 15px;
+    position: relative;
+    left:70px
+}
+.card:hover{
+  background-color: aliceblue;
+  border-color: aliceblue;
+}
+.Type,.location{
+    font-size: 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.off{
+    background-color:red;
+    opacity: 0.6;
+    display: inline;
+    font-size: 25px;
+    position:relative;
+    bottom:60px;
+    left: 4px;
+    color:white
+}
